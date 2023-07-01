@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/vk.html"
+status = 200
